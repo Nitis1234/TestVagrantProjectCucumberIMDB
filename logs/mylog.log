@@ -1,0 +1,25 @@
+
+[INFO ] 2022-10-22 10:39:57.336 [main] StepDefi - Setup 1 Executed
+[INFO ] 2022-10-22 10:40:11.829 [main] StepDefi - Url Lunched....
+[INFO ] 2022-10-22 10:40:11.878 [main] StepDefi - Country Name Not Matched
+[INFO ] 2022-10-22 10:40:12.844 [main] StepDefi - Test Case Failed
+[INFO ] 2022-10-22 10:40:14.158 [main] StepDefi - Setup 1 Executed
+[INFO ] 2022-10-22 10:40:28.400 [main] StepDefi - Url Lunched....
+[INFO ] 2022-10-22 10:40:28.453 [main] StepDefi - Release Date Matched
+[INFO ] 2022-10-22 10:40:28.455 [main] StepDefi - Test Passed
+[INFO ] 2022-10-22 10:43:13.679 [main] StepDefi - Setup 1 Executed
+[INFO ] 2022-10-22 10:44:01.580 [main] StepDefi - Url Lunched....
+[INFO ] 2022-10-22 10:44:01.614 [main] StepDefi - Country Name Matched
+[INFO ] 2022-10-22 10:44:01.620 [main] StepDefi - Test Passed
+[INFO ] 2022-10-22 10:44:02.661 [main] StepDefi - Setup 1 Executed
+[INFO ] 2022-10-22 10:44:25.650 [main] StepDefi - Url Lunched....
+[INFO ] 2022-10-22 10:44:25.691 [main] StepDefi - Release Date Matched
+[INFO ] 2022-10-22 10:44:25.691 [main] StepDefi - Test Passed
+[INFO ] 2022-10-22 10:45:31.370 [main] StepDefi - Setup 1 Executed
+[INFO ] 2022-10-22 10:45:49.191 [main] StepDefi - Url Lunched....
+[INFO ] 2022-10-22 10:45:49.237 [main] StepDefi - Country Name Matched
+[INFO ] 2022-10-22 10:45:49.243 [main] StepDefi - Test Passed
+[INFO ] 2022-10-22 10:45:50.357 [main] StepDefi - Setup 1 Executed
+[INFO ] 2022-10-22 10:46:08.382 [main] StepDefi - Url Lunched....
+[INFO ] 2022-10-22 10:46:08.422 [main] StepDefi - Release Date Matched
+[INFO ] 2022-10-22 10:46:08.423 [main] StepDefi - Test Passed
