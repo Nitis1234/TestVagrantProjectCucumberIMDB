@@ -24,7 +24,7 @@ To illustrate how this works, look at the following Gherkin Scenario
 ![26 10 2022_09 33 45_REC](https://user-images.githubusercontent.com/116420907/197931940-a21c47f1-0da8-4908-b1bf-b2e89676f4e5.png)
 # Test Runner
 TestRunner File is used to build a Communication between Feature Files and StepDefinition Files.
-![26 10 2022_01 15 59_REC](https://user-images.githubusercontent.com/116420907/197931750-edddfe5e-7239-4a2d-ac23-f9514f087c56.png)
+![26 10 2022_01 50 51_REC](https://user-images.githubusercontent.com/116420907/198011657-4373d760-92c1-4205-88fc-2db72c969849.png)
 # Logs
 A logging framework is a utility specifically designed to standardize the process of logging in your application.
 ![26 10 2022_01 37 56_REC Logs](https://user-images.githubusercontent.com/116420907/197932093-e23fb414-9773-421a-b118-73b0034390f1.png)
